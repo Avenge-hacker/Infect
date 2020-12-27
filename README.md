@@ -41,7 +41,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Avengehacker/Infect
+$ git clone https://github.com/Avenge-hacker/Infect.git
 ```
 ```
 $ ls
